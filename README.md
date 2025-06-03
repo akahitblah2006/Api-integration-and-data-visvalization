@@ -7,4 +7,4 @@
 *MENTOR* : BALJINDER MAM 
 ##YOU HAVE TO ENTER DESCRIOTON OF YOUR TASK (AND IT SHOULD NOT BE LESS THAN 500 WORDS)
 #OUTPUT
-![Image](https://github.com/user-attachments/assets/4402b5d9-3ea9-4109-aae6-7dc1fc0485d1)
+![Image](https://github.com/user-attachments/assets/a7f99904-54b9-456d-896e-1775e7eb0441)
